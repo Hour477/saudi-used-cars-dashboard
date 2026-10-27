@@ -69,5 +69,5 @@ Saudi Arabia Used Cars dataset from Kaggle.
 
 ## 👩‍💻 Author
 
-**Hour Aljubayri** – Data Analyst
+**Hour Mohammed** – Data Analyst
 GitHub: [Hour477](https://github.com/Hour477)
